@@ -1,7 +1,7 @@
 // Configurações da API
         //const API_BASE_URL = 'http://localhost:3000/api';
-        const API_BASE_URL = 'https://backcadastro.onrender.com/api/products';
-        
+        const API_BASE_URL = 'https://backcadastro.onrender.com/api';
+
         // Elementos do DOM
         const productForm = document.getElementById('productForm');
         const productsGrid = document.getElementById('productsGrid');
